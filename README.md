@@ -50,6 +50,16 @@ $ make
 $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/gazebo_demo_workshop/build
 ```
 
+#### Step 5 Lauch the gazebo world
+```sh
+$ cd /home/workspace/gazebo_demo_workshop/world
+$ gazebo workshop
+```
+
+### Output
+The Gazebo World should launch as follow: 
+![alt text](images/output.png)
+
 
 ### Reference
 https://github.com/udacity/RoboND-myrobot 
