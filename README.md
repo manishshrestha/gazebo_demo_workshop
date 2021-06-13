@@ -33,7 +33,7 @@ $ sudo apt-get upgrade -y
 #### Step 2 Clone the lab folder in /home/workspace/
 ```sh
 $ cd /home/workspace/
-$ git clone https://github.com/mautonomous/gazebo_demo_workshop gazebo_demo_workshop
+$ git clone https://github.com/manishshrestha/gazebo_demo_workshop gazebo_demo_workshop
 ```
 
 #### Step 3 Compile the code
